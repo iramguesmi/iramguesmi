@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Angular, Android, Symfony**
+- 💬 Ask me about **Angular, Symfony**
 
 - 📫 How to reach me **iramgsm@gmail.com**
 
