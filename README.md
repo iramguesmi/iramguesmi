@@ -1,4 +1,4 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif)](https://github.com/iramguesmi)
+[![MasterHead](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)](https://github.com/iramguesmi)
 
 <h1 align="center">Hi 👋, I'm Iram Guesmi</h1>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Angular, Symfony**
+- 💬 Ask me about **Angular, Android, Symfony**
 
 - 📫 How to reach me **iramgsm@gmail.com**
 
