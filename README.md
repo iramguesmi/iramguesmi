@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/iram_guesmi" target="blank"><img src="https://img.shields.io/twitter/follow/iram_guesmi?logo=twitter&style=for-the-badge" alt="iram_guesmi" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Angular, Android, Symfony**
+- 💬 Ask me about **Angular, Android, SpringBoot**
 
 - 📫 How to reach me **iramgsm@gmail.com**
 
